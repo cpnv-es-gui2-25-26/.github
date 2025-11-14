@@ -23,6 +23,7 @@
 - [Example Jetpack Compose apps](https://developer.android.com/jetpack/compose/samples)
 - [Bitwarden open source app using Jetpack Compose](https://github.com/bitwarden/android)
 - [Imperative vs Declarative Programming](https://ui.dev/imperative-vs-declarative-programming)
+- [Jetpack Compose Playground (community-driven wiki)](https://foso.github.io/Jetpack-Compose-Playground/)
 
 ## Codelabs
 
@@ -46,7 +47,7 @@ Il sera évalué sur les critères suivants :
 
 - Respect des principes de conception Material Design (typographie, couleurs, espacements, etc.).
 - Correspondance entre la maquette et l'implémentation.
-- Cohérence de l'interface utilisateur avec les besoins exprimés par le sujet sélectionné.
+- Cohérence de l'interface utilisateur avec les besoins exprimés par le sujet sélectionné. (Est-ce que l'interface répond de manière ciblée aux besoins?)
 
 Quelques idées de sujets:
 
