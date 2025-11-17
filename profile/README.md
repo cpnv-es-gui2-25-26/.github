@@ -16,14 +16,26 @@
 
 ## Ressources
 
-- [Material Design](https://m3.material.io/)
-- [Material Design Components](https://m3.material.io/components)
-- [Material 3 Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460/material-3-design-kit)
+### Jetpack Compose
+
 - [Thinking in Compose](https://developer.android.com/develop/ui/compose/mental-model)
 - [Example Jetpack Compose apps](https://developer.android.com/jetpack/compose/samples)
 - [Bitwarden open source app using Jetpack Compose](https://github.com/bitwarden/android)
-- [Imperative vs Declarative Programming](https://ui.dev/imperative-vs-declarative-programming)
 - [Jetpack Compose Playground (community-driven wiki)](https://foso.github.io/Jetpack-Compose-Playground/)
+
+### Material Design
+
+- [Material Design](https://m3.material.io/)
+- [Material Design Components](https://m3.material.io/components)
+
+### Figma
+
+- [Material 3 Design Kit (Figma)](https://www.figma.com/community/file/1035203688168086460/material-3-design-kit)
+- [Exemples de maquettes (Google Drive)](https://www.figma.com/community/file/1383784439178391844)
+
+### Autre
+
+- [Imperative vs Declarative Programming](https://ui.dev/imperative-vs-declarative-programming)
 
 ## Codelabs
 
