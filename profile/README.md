@@ -22,6 +22,7 @@
 - [Example Jetpack Compose apps](https://developer.android.com/jetpack/compose/samples)
 - [Bitwarden open source app using Jetpack Compose](https://github.com/bitwarden/android)
 - [Jetpack Compose Playground (community-driven wiki)](https://foso.github.io/Jetpack-Compose-Playground/)
+- [Type safety in Kotlin DSL and Navigation Compose](https://developer.android.com/guide/navigation/design/type-safety)
 
 ### Material Design
 
