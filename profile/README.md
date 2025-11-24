@@ -49,17 +49,11 @@ Le module sera évalué sur la réalisation d'une application Android utilisant 
 
 Le projet devra inclure au minimum les éléments d'interface suivants :
 
-- Une page contenant une liste d'éléments cliquables.
+- Une page contenant une liste d'éléments cliquables (avec navigation vers nouvelle page).
 - Une page affichant les détails d'un élément.
 - Utilisation de composants interactifs: [Search](https://m3.material.io/components/search/overview), [Tabs](https://m3.material.io/components/tabs/overview), [Dialogs](https://m3.material.io/components/dialogs/overview), [Bottom Sheets](https://m3.material.io/components/bottom-sheets/overview), etc.
 
 Le projet sera réalisé par groupe de 2 à 3 personnes.
-
-Il sera évalué sur les critères suivants :
-
-- Respect des principes de conception Material Design (typographie, couleurs, espacements, etc.).
-- Correspondance entre la maquette et l'implémentation.
-- Cohérence de l'interface utilisateur avec les besoins exprimés par le sujet sélectionné. (Est-ce que l'interface répond de manière ciblée aux besoins?)
 
 Quelques idées de sujets:
 
@@ -69,3 +63,27 @@ Quelques idées de sujets:
 - Blog / News (Reddit, Substack, etc.)
 - Client mail
 - Boutique en ligne (Zalando, Digitec, etc.)
+
+### Évaluation
+
+- Maquettes
+  - Cohérence de l'interface utilisateur avec les besoins exprimés par le sujet sélectionné. (Est-ce que l'interface répond de manière ciblée aux besoins?)
+  - Utilisation correcte de l'outil pour la réalisation des maquettes (Figma ou autre)
+- Respect des principes de conception Material Design
+  - Respect du design system Material 3
+    - [Typographie](https://m3.material.io/styles/typography/overview)
+    - [Couleurs](https://m3.material.io/styles/color)
+    - [Espacements](https://m3.material.io/foundations/layout/understanding-layout/spacing)
+    - [Gestes et animations](https://m3.material.io/foundations/interaction/gestures)
+  - Respect des bonnes pratiques en terme d'accessibilité
+    - Contraste des couleurs
+    - [Taille des cibles tactiles](https://m3.material.io/foundations/designing/structure#8584de9a-6337-4234-9120-38d0227c5d21)
+  - Utilisation appropriée des composants Material Design
+- Implémentation
+  - Correspondance de l'implémentation avec la maquette
+  - [Le thème est personnalisé en suivant les bonnes pratiques de la librairie material3](https://developer.android.com/develop/ui/compose/designsystems/material3#material-theming)
+  - [L'application est pensée pour différents formats d'écran (téléphone, tablette, paysage, portrait) et s'adapte en conséquence](https://m3.material.io/foundations/layout/applying-layout/window-size-classes)
+  - [La navigation entre les écrans respecte les principes de navigation Android](https://developer.android.com/guide/navigation/principles)
+  - L'application utilise des composables interactifs et ceux-ci peuvent être utilisés et leur état est géré correctement
+  - L'interface utilisateur est soignée (orthographe, alignement)
+  - L'application compile
